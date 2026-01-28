@@ -9,6 +9,7 @@ import { LinkButton } from "@/components/link-button";
 import { SUBSTACK_URL } from "@/utils/constants";
 
 const postSlugs = [
+  "the-new-model-of-software-development",
   "ai-agent-security",
   "gpt-5-the-case-of-the-missing-agent",
   "thoughts-about-agi-and-gpt-5",
