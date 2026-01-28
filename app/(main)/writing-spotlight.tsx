@@ -10,6 +10,8 @@ import { SUBSTACK_URL } from "@/utils/constants";
 
 const postSlugs = [
   "the-new-model-of-software-development",
+  "software-too-cheap-to-meter",
+  "the-unrecognizable-age",
   "ai-agent-security",
   "gpt-5-the-case-of-the-missing-agent"
 ];
